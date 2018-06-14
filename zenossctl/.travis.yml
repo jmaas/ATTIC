@@ -1,0 +1,10 @@
+language: python
+python:
+ - "2.7"
+branches:
+ only:
+  - "master"
+  - "release10"
+install:
+ - "pip install pyflakes pep8 sphinx"
+script: make qa

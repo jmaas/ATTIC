@@ -1,0 +1,16 @@
+Source: zenossctl
+Section: admin
+Priority: optional
+Maintainer: Jorgen Maas <jorgen.maas@gmail.com>
+Build-Depends: debhelper (>= 7), python
+Standards-Version: 3.8.0
+Homepage: https://github.com/jmaas/zenossctl
+
+Package: zenossctl
+Architecture: all
+Depends: ${python:Depends}, python
+Description: Zenossctl provides a library and tools to help with Zenoss object management
+ The library is geared towards sysadmins and provides a workflow oriented and
+ pythonic interface to the Zenoss JSON API.
+ The commandline tool provides functions to deal with device registration,
+ deletion, groups management and stuff like that.

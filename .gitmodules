@@ -1,0 +1,9 @@
+[submodule "zenossctl"]
+	path = zenossctl
+	url = ./zenossctl
+[submodule "puppet-role"]
+	path = puppet-role
+	url = ./puppet-role/
+[submodule "puppet-cloudstack-data"]
+	path = puppet-cloudstack-data
+	url = ./puppet-cloudstack-data/

@@ -1,0 +1,26 @@
+{
+    "config": {
+        "uid_type": "ip",
+        "server_uri": "http://192.168.122.244:8080",
+        "username": "testuser",
+        "password": "testpass",
+        "proxy_uri": "",
+        "debug": false
+    },
+    "device": {
+        "hostname": "test.example.com",
+        "ipaddress": "192.168.122.10",
+        "class": "/Server/Linux",
+        "comments": "build server for zenossctl",
+        "state": "production",
+        "snmp_port": 161,
+        "snmp_community": "public",
+        "hw_manufacturer": "AAA",
+        "hw_productname": "BBB",
+        "os_manufacturer": "CCC",
+        "os_productname": "DDD",
+        "location": "DC_1",
+        "systems": ["CentOS 6", "VMware"],
+        "groups": ["Customer X", "Application Y"]
+    }
+}

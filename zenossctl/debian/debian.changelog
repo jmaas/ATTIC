@@ -1,0 +1,18 @@
+zenossctl (1.0.2) stable; urgency=low
+
+  * Debian / Ubuntu packaging on openSUSE Build Service
+
+ --  Jörgen Maas <jorgen.maas@gmail.com>  Mon,  5 May 2014 00:19:50 +0200
+
+zenossctl (1.0.1) stable; urgency=low
+
+  * Added update_device API, API documentation
+
+ -- Jörgen Maas <jorgen.maas@gmail.com>  Fri,  2 May 2014 19:09:14 +0200
+
+zenossctl (1.0.0) stable; urgency=low
+
+  * Initial release.
+
+ -- Jörgen Maas <jorgen.maas@gmail.com>  Wed,  9 Apr 2014 18:24:22 +0200
+

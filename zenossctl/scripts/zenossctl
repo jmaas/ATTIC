@@ -1,0 +1,8 @@
+#!/usr/bin/env python
+
+from zenossctl.cli import ZenossControllerCli
+
+if __name__ == '__main__':
+    ZenossControllerCli().main() 
+
+# EOF

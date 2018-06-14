@@ -1,0 +1,5 @@
+
+This puppet module assists in loading a server/application role.
+
+The role name(s) should be provided by the 'role' fact.
+

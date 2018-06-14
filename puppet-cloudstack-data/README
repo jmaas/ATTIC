@@ -1,0 +1,7 @@
+
+This Puppet module fetches CloudStack user & metadata and injects it into Puppet facts.
+
+The user-data should be in 'key=value' format. Multiple key/value pairs must be seperated with '\n'.
+
+This module requires wget to be installed on the target system.
+
