@@ -1,4 +1,4 @@
-# ATTIC
+# Attic
 This repository contains several projects that are currently not maintained:
 - `zenossctl` - Library and CLI tool to manage objects in Zenoss
 - `puppet-role` - Puppet module to load 'server roles'
